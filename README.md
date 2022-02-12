@@ -1,1 +1,1 @@
-# the-gold-story-store
+# the-gold-story-store.com
