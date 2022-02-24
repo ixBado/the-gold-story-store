@@ -189,16 +189,13 @@ p{
           background:#856a6a
       }
 
-      .btn1:active{
-        transform: scale(0.00);
-    }
 
       .btn1 {
         margin: 0;
         position: absolute;
         top:  50-auto;
         left: 50%;
-        -ms-transform: translate(-50%, -50%auto);
+        -ms-transform: translate(0%, 0%auto);
         transform: translate(-50%, -50%);
           
       }
